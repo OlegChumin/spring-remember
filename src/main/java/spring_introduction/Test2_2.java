@@ -17,5 +17,6 @@ public class Test2_2 {
         System.out.println(pet3.getClass());
         pet3.say();
         System.out.println("pet == pet3: " + (pet == pet3));
+        context.close();
     }
 }

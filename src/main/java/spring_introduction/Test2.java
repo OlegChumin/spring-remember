@@ -20,5 +20,6 @@ public class Test2 {
         for (String beanName : beanDefinitionNames) {
             System.out.println("Bean name: " + beanName);
         }
+        context.close();
     }
 }

@@ -16,5 +16,6 @@ public class Test2_1 {
             System.out.println("Bean name: " + beanName);
         }
 
+        context.close();
     }
 }
