@@ -1,6 +1,5 @@
 package spring_introduction;
 
-import org.springframework.context.support.GenericApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class Test2_1 {
