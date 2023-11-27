@@ -1,5 +1,8 @@
-package spring_introduction_5;
+package spring_introduction_7;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Dog implements Pet {
 
     public Dog() {
