@@ -11,6 +11,7 @@
           class="spring_introduction_5.Dog"
           init-method="init"
           destroy-method="destroy"
+          scope="prototype"
     >
     </bean>
 
